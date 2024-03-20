@@ -45,7 +45,7 @@ public final class Constants {
     public static final class Arm {
         public static final double subwooferAngle = 15;
 
-        public static final double restingAngle = -6.2;
+        public static final double restingAngle = -10.7;
         public static final double ampAngle = 90;
         public static final double voltageDeadband = 0.1;
 
